@@ -8,11 +8,11 @@
 * При запросе суммы в 20, банкомат выдаст пять купюр по 1, одну купюру по 5, и одну купюру 10.
 
 ### Runing application
-path/to/dart main.dart min max step
+`path/to/dart main.dart min max step`<br>
 where: 
 * min - minimal value to calculate
 * max - max value to calculate
 * step - calculate each value between min and max by step
 
 ### Runing tests
-path/to/dart tests.dart
+`path/to/dart tests.dart`
