@@ -3,3 +3,6 @@ pub.bat
 .packages
 .dart-tool/
 pubspec.lock
+.dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2
+.dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2
+.dart_tool/pub/bin/sdk-version
