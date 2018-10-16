@@ -6,3 +6,4 @@ pubspec.lock
 .dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2
 .dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2
 .dart_tool/pub/bin/sdk-version
+.dart_tool/pub/bin/test/test.dart.snapshot.dart2
