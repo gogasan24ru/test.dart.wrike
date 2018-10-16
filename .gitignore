@@ -1,1 +1,5 @@
 dart.exe
+pub.bat
+.packages
+.dart-tool/
+pubspec.lock
